@@ -1,5 +1,7 @@
 # ROLL DICE 
 ## 기술스택
+
+ 플러터로 만드는 android dice app 입니다. 
 <img src="https://img.shields.io/badge/FLUTTER-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 
 
