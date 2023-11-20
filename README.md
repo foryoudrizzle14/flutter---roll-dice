@@ -1,16 +1,7 @@
-# myfirstapp
+# ROLL DICE 
+## 기술스택
+<img src="https://img.shields.io/badge/FLUTTER-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 
-A new Flutter project.
+<img src="https://github.com/foryoudrizzle14/myfirstapp/assets/115998794/134edafa-7fe3-4132-8615-a102cc5f4c98)https://github.com/foryoudrizzle14/myfirstapp/assets/115998794/134edafa-7fe3-4132-8615-a102cc5f4c98.png" width="200" height="400"/>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 
