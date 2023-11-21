@@ -1,4 +1,4 @@
-# ROLL DICE 
+# ROLL DICE 주사위
 ## 기술스택
 
 <img src="https://img.shields.io/badge/FLUTTER-02569B?style=for-the-badge&logo=flutter&logoColor=white">
