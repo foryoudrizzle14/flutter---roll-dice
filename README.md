@@ -1,16 +1,11 @@
-# myfirstapp
+# ROLL DICE 주사위
+## 기술스택
 
-A new Flutter project.
+<img src="https://img.shields.io/badge/FLUTTER-02569B?style=for-the-badge&logo=flutter&logoColor=white"> 
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white"/>
 
-## Getting Started
+ 플러터로 만드는 android dice app 입니다. 버튼을 누르면 랜덤으로 숫자가 나옵니다.
+![image](https://github.com/foryoudrizzle14/myfirstapp/assets/115998794/23117005-a2a4-4d8b-8974-f374d22bed42)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
